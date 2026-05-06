@@ -1,4 +1,4 @@
-. Documento de Requisitos: E-commerce Minimalista
+. Documento de Requisitos: Gestão de Vendas
 
 1. Requisitos Funcionais (RF)
 RF01 - Cadastro de Produtos: O sistema deve permitir criar, ler, atualizar e excluir produtos (Nome, Preço e Quantidade em Estoque).
